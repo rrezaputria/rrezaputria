@@ -5,7 +5,7 @@
 
 ---
 
-✨ Welcome to my data-driven journey! ✨
+**✨ Welcome to my data-driven journey! ✨**
 
 </div>
 

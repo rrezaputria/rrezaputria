@@ -1,6 +1,7 @@
-## Hi there 👋
+<div align="center">
 
 # Hi 👋, I'm Reza Putri Angga
+### Undergraduate Data Science
 
 ## About Me:
 🎓 Data Science Enthusiast  
@@ -31,3 +32,4 @@
 
 ✨ Let's collaborate and create data-driven solutions! 🚀
 
+</div>
